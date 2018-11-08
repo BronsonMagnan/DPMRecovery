@@ -9,3 +9,4 @@ I have tested this on Server 2016, with DPM 1807.
 
 Please see DPM Recovery Instructions.png for the guide on using the GUI front end.
 
+![alt text](https://github.com/BronsonMagnan/DPMRecovery/blob/master/DPM%20Recovery%20Instructions.png "Instructions")
