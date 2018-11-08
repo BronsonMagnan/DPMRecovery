@@ -10,7 +10,11 @@ I have tested this on Server 2016, with DPM 1807.
 This is version 1.0, there are definetly some UI related bugs, but it does the job.
 Known issues:
 1. Typing in a alternate restore subfolder after the drive root does not work.
+2. Restore job status update does not work until the job is completed.
 
+Notes:
+Search may take a while, depends on your SQL performance, expect at least 30 seconds.
+The restore operation might look like it is doing nothing, the status update does not work.
 
 Please see DPM Recovery Instructions.png for the guide on using the GUI front end.
 
