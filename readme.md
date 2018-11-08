@@ -7,6 +7,11 @@ The server you run this script on requires the DPM console to be installed.
 
 I have tested this on Server 2016, with DPM 1807.
 
+This is version 1.0, there are definetly some UI related bugs, but it does the job.
+Known issues:
+1. Typing in a alternate restore subfolder after the drive root does not work.
+
+
 Please see DPM Recovery Instructions.png for the guide on using the GUI front end.
 
 ![alt text](https://github.com/BronsonMagnan/DPMRecovery/blob/master/DPM%20Recovery%20Instructions.png "Instructions")
