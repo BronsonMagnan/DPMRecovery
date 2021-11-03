@@ -19,3 +19,5 @@ The restore operation might look like it is doing nothing, the status update doe
 Please see DPM Recovery Instructions.png for the guide on using the GUI front end.
 
 ![alt text](https://github.com/BronsonMagnan/DPMRecovery/blob/master/DPM%20Recovery%20Instructions.png "Instructions")
+
+Test note
